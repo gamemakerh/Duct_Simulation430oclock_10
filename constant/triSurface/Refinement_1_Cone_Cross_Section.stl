@@ -1,0 +1,142 @@
+solid Refinement_1_Cone_Cross_Section
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex -0.2789 -0.1104 0.5
+       vertex -0.2121 -0.2121 0.5
+       vertex -40.6 1.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex -40.6 1.0 0.5
+       vertex -0.2121 -0.2121 0.5
+       vertex -0.1104 -0.2789 0.5
+     endloop
+   endfacet
+   facet normal 0.0 -0.0 -1.0
+     outer loop
+       vertex -40.6 1.0 0.5
+       vertex -0.1104 -0.2789 0.5
+       vertex -40.6 -11.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex -40.6 -11.0 0.5
+       vertex -0.1104 -0.2789 0.5
+       vertex -5.5e-17 -0.3 0.5
+     endloop
+   endfacet
+   facet normal -0.0 0.0 -1.0
+     outer loop
+       vertex -5.5e-17 -0.3 0.5
+       vertex 12.0 -11.0 0.5
+       vertex -40.6 -11.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex -0.2789 0.1104 0.5
+       vertex -0.3 3.7e-17 0.5
+       vertex -40.6 1.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex -0.2789 -0.1104 0.5
+       vertex -40.6 1.0 0.5
+       vertex -0.3 3.7e-17 0.5
+     endloop
+   endfacet
+   facet normal 0.0 -0.0 -1.0
+     outer loop
+       vertex -40.6 1.0 0.5
+       vertex -0.1104 0.2789 0.5
+       vertex -0.2121 0.2121 0.5
+     endloop
+   endfacet
+   facet normal 0.0 -0.0 -1.0
+     outer loop
+       vertex -40.6 1.0 0.5
+       vertex -0.2121 0.2121 0.5
+       vertex -0.2789 0.1104 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex 1.8e-17 0.3 0.5
+       vertex -0.1104 0.2789 0.5
+       vertex -40.6 1.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex 0.1104 -0.2789 0.5
+       vertex 0.2121 -0.2121 0.5
+       vertex 12.0 1.0 0.5
+     endloop
+   endfacet
+   facet normal -0.0 0.0 -1.0
+     outer loop
+       vertex 12.0 1.0 0.5
+       vertex 0.2789 -0.1104 0.5
+       vertex 0.3 0.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex 0.2789 -0.1104 0.5
+       vertex 12.0 1.0 0.5
+       vertex 0.2121 -0.2121 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex 0.1104 -0.2789 0.5
+       vertex 12.0 1.0 0.5
+       vertex -5.5e-17 -0.3 0.5
+     endloop
+   endfacet
+   facet normal -0.0 0.0 -1.0
+     outer loop
+       vertex 12.0 1.0 0.5
+       vertex 12.0 -11.0 0.5
+       vertex -5.5e-17 -0.3 0.5
+     endloop
+   endfacet
+   facet normal -0.0 0.0 -1.0
+     outer loop
+       vertex 12.0 1.0 0.5
+       vertex 0.1104 0.2789 0.5
+       vertex 1.8e-17 0.3 0.5
+     endloop
+   endfacet
+   facet normal -0.0 0.0 -1.0
+     outer loop
+       vertex 12.0 1.0 0.5
+       vertex 0.2789 0.1104 0.5
+       vertex 0.2121 0.2121 0.5
+     endloop
+   endfacet
+   facet normal 0.0 0.0 -1.0
+     outer loop
+       vertex 0.3 0.0 0.5
+       vertex 0.2789 0.1104 0.5
+       vertex 12.0 1.0 0.5
+     endloop
+   endfacet
+   facet normal 0.0 -0.0 -1.0
+     outer loop
+       vertex 0.1104 0.2789 0.5
+       vertex 12.0 1.0 0.5
+       vertex 0.2121 0.2121 0.5
+     endloop
+   endfacet
+   facet normal 0.0 -0.0 -1.0
+     outer loop
+       vertex -40.6 1.0 0.5
+       vertex 12.0 1.0 0.5
+       vertex 1.8e-17 0.3 0.5
+     endloop
+   endfacet
+endsolid Refinement_1_Cone_Cross_Section
