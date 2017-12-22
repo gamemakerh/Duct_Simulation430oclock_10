@@ -37,7 +37,9 @@ divSchemes
 
     div(phi,epsilon)		bounded Gauss linearUpwind grad(epsilon);
 
-    div(phi,U)		bounded Gauss linearUpwindV grad(U);
+    div(phi,T)		bounded Gauss linearUpwind default;
+
+    div(phi,U)		bounded Gauss linearUpwind grad(U);
 
     div((nuEff*dev2(T(grad(U)))))		Gauss linear;
 

@@ -90,13 +90,13 @@ castellatedMeshControls
 
     maxLocalCells		1000000;
 
-    maxGlobalCells		2000000;
+    maxGlobalCells		100000000;
 
     minRefinementCells		10;
 
     maxLoadUnbalance		0.10;
 
-    nCellsBetweenLevels		3;
+    nCellsBetweenLevels		50;
 
     features		();
 
@@ -168,7 +168,7 @@ castellatedMeshControls
 
     }
 
-    locationInMesh		(-14.30640849446084 -5.002240732328973 0.5);
+    locationInMesh		(-25.563888888888886 0.66666666666666663 0.5);
 
     allowFreeStandingZoneFaces		true;
 
@@ -210,11 +210,11 @@ addLayersControls
 
     }
 
-    expansionRatio		1.0;
+    expansionRatio		1.1;
 
-    finalLayerThickness		0.3;
+    finalLayerThickness		0.7;
 
-    minThickness		0.2;
+    minThickness		0.1;
 
     nGrow		0;
 
